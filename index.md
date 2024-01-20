@@ -1,7 +1,8 @@
 #Tiancheng Wang's First CS193 Homework
--Tutors
--Cool Konwledge
--PPT
+
+- Tutors
+- Cool Konwledge
+- PPT
 
 ## Welcome to GitHub Pages
 
